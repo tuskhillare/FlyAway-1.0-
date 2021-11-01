@@ -1,0 +1,15 @@
+127.0.0.1 - - [10/Oct/2021:14:09:08 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:14:09:16 +0530] "GET /FlyAway/index.jsp HTTP/1.1" 200 1064
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:14:09:18 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:14:09:47 +0530] "GET /FlyAway/Login.jsp HTTP/1.1" 200 470
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:14:10:06 +0530] "POST /FlyAway/Login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:14:10:06 +0530] "GET /FlyAway/Dashboard.jsp HTTP/1.1" 200 491
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:14:10:23 +0530] "GET /FlyAway/ListAirlines HTTP/1.1" 200 817
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:14:10:37 +0530] "GET /FlyAway/Dashboard.jsp HTTP/1.1" 200 491
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:14:10:46 +0530] "GET /FlyAway/index.jsp HTTP/1.1" 200 1064
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:14:11:05 +0530] "GET /FlyAway/SearchFlights?source=ORD&destination=DBX&price=500.00&date=2020-10-20 HTTP/1.1" 200 1550
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:14:11:27 +0530] "GET /FlyAway/index.jsp HTTP/1.1" 200 1064
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:14:11:37 +0530] "GET /FlyAway/Login.jsp HTTP/1.1" 200 470
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:14:11:40 +0530] "POST /FlyAway/Login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:14:11:40 +0530] "GET /FlyAway/Dashboard.jsp HTTP/1.1" 200 491
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:14:11:47 +0530] "GET /FlyAway/ChangePassword.jsp HTTP/1.1" 200 476

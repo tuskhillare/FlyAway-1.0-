@@ -111,6 +111,8 @@ INSERT INTO flight (number_of_seats, price, source, destination, date_of_departu
 	last_name ,
 	email,
     birthday
-    ) values(1,"tushar","khillare","tusharkhilllare2015@gmail.com","07-10-1999")
+    ) values(1,"tushar","khillare","tusharkhilllare2015@gmail.com","1999-10-07");
     
+check table flyaway
+
 
